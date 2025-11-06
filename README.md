@@ -14,8 +14,8 @@ python TestAgent.py
 #### 1. Clone the Repository
 
 ```zsh
-git clone https://github.com/rdtiv/LangGraph-Course.git
-cd LangGraph-Course
+git clone https://github.com/kkaileni/LangGraphRagAgent.git
+cd LangGraphRagAgent
 ```
 
 #### 2. Install pyenv (if not already installed)
