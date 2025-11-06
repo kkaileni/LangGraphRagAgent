@@ -1,6 +1,11 @@
 # LangGraphRagAgent
 A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial : https://github.com/iamvaibhavmehra/LangGraph-Course-freeCodeCamp/tree/main 
 
+Run Using after the setup below :
+
+```zsh
+python TestAgent.py
+```
 
 ## Getting Started (zsh/Mac)
 
