@@ -9,3 +9,4 @@ chromadb
 langchain_chroma
 python-dotenv
 pydantic
+pypdf
